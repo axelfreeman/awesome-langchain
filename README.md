@@ -201,6 +201,7 @@ List of non-official ports of LangChain to other languages.
 - [Greg Kamradt Playlist](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
 ## Other LLM Frameworks
+- [marketing-mindset](https://axelfreeman.github.io/marketing-mindset/) — open agent skill (SKILL.md) for B2B marketing tests: sample size, kill rules, pricing a first client, cold-email deliverability. Install: `npx marketing-mindset`
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/run-llama/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
